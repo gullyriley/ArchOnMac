@@ -1,4 +1,4 @@
-# ArchOnMac
+## ArchOnMac
 Guide to installing Arch on a Macbook
 
 This is a personal step-by-step log of how I installed Arch Linux on my MacBook Air, and how I overcame the challenge of an unsupported wireless chip.
